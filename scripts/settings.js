@@ -5,7 +5,7 @@ settings = (function() {
 	
 	// Default values for various user settings.
 	const defaultValues = {
-		"documentContent": "Text2MindMap Beispiel\n\tKategorie A\n\t\tUnterpunkt a\n\t\tKategorie B\n\tUnterpunkt b\n\tThis project is based on the now dead site Text2MindMap.com",
+		"documentContent": "Text2MindMap-Beispiel\n\tFunktionen\n\t\tListen werden zu Mindmaps\n\t\tMindmap kann frei angeordnet werden\n\t\tMindmap kann als bild herunter geladen werden\n\tVorgehen\n\t\tText als Liste eintragen\n\t\tUnterpunkte mit Tab\n\t\tZur oberen Kategorie mit Shift + Tab\n\t\tEinstellungen und Download im Menü\n\tHintergrund\n\t\tCode bei Github",
 		"documentTitle": "Beispiel"
 	};
 
